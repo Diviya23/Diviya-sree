@@ -1,9 +1,12 @@
 package com.example;
 
-import org.junit.jupiter.api.*;
-
-import static org.mockito.Mockito.*;
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.AfterEach;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.verify;
+import static org.mockito.Mockito.when;
 
 public class MyServiceTest {
 
@@ -12,7 +15,7 @@ public class MyServiceTest {
 
     @BeforeEach
     public void setUp() {
-        // Setup: runs before each test
+        
         mockApi = mock(ExternalApi.class);
         service = new MyService(mockApi);
         System.out.println("Setup completed.");
@@ -20,30 +23,28 @@ public class MyServiceTest {
 
     @AfterEach
     public void tearDown() {
-        // Teardown: runs after each test
+        
         System.out.println("Teardown after test.");
     }
 
     @Test
     public void testFetchData_UsingAAA() {
-        // Arrange
+       
         when(mockApi.getData()).thenReturn("Sample Data");
 
-        // Act
+        
         String result = service.fetchData();
 
-        // Assert
+        
         assertEquals("Sample Data", result);
     }
 
     @Test
     public void testFetchData_VerifyInteraction_UsingAAA() {
-        // Arrange: mock already injected
-
-        // Act
+        
         service.fetchData();
 
-        // Assert
+       
         verify(mockApi).getData();
     }
 }
