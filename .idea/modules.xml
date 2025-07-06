@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/AdapterPattern/AdapterPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/AdapterPattern/AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/CommandPattern/CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/DecoratorPattern/DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/DependencyInjection/DependencyInjection.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/DependencyInjection/DependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DigitalNuture.iml" filepath="$PROJECT_DIR$/.idea/DigitalNuture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DSA/Ecommerce/Ecommerce.iml" filepath="$PROJECT_DIR$/week1/DSA/Ecommerce/Ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DSA/EmployeeManagementSystem/EmployeeManagementSystem.iml" filepath="$PROJECT_DIR$/week1/DSA/EmployeeManagementSystem/EmployeeManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/FactoryMethodPattern/FactoryMethodPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/FactoryMethodPattern/FactoryMethodPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DSA/FinancialForecasting/FinancialForecasting.iml" filepath="$PROJECT_DIR$/week1/DSA/FinancialForecasting/FinancialForecasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DSA/InventoryManagementSystem/InventoryManagementSystem.iml" filepath="$PROJECT_DIR$/week1/DSA/InventoryManagementSystem/InventoryManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DSA/LibraryManagementSystem/LibraryManagementSystem.iml" filepath="$PROJECT_DIR$/week1/DSA/LibraryManagementSystem/LibraryManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/MVCPattern/MVCPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/MVCPattern/MVCPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/ProxyPattern/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/SingletonClass/SingletonClass.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/SingletonClass/SingletonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DSA/SortingCustomerOrders/SortingCustomerOrders.iml" filepath="$PROJECT_DIR$/week1/DSA/SortingCustomerOrders/SortingCustomerOrders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DesignPattern/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/week1/DesignPattern/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/DSA/TaskManagementSystem/TaskManagementSystem.iml" filepath="$PROJECT_DIR$/week1/DSA/TaskManagementSystem/TaskManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/Mockito Exercises/Verifying interactions/code/demo/src/main/main.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/Mockito Exercises/Verifying interactions/code/demo/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/Mockito Exercises/Mocking and Stubbing/code/demo/src/main/main2.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/Mockito Exercises/Mocking and Stubbing/code/demo/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/AAA Pattern/code/demo/src/main/main3.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/AAA Pattern/code/demo/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/Assertions/code/demo/src/main/main4.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/Assertions/code/demo/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/setting up junit/code/demo/src/main/main5.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/setting up junit/code/demo/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/SLF4J Logging Framework/SLF4J Logging Exercises/Logging error messages and warning levels/code/demo/src/main/main6.iml" filepath="$PROJECT_DIR$/week2/SLF4J Logging Framework/SLF4J Logging Exercises/Logging error messages and warning levels/code/demo/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/Assertions/code/demo/src/test/test.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/Assertions/code/demo/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/setting up junit/code/demo/src/test/test2.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/setting up junit/code/demo/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/SLF4J Logging Framework/SLF4J Logging Exercises/Logging error messages and warning levels/code/demo/src/test/test3.iml" filepath="$PROJECT_DIR$/week2/SLF4J Logging Framework/SLF4J Logging Exercises/Logging error messages and warning levels/code/demo/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/AAA Pattern/code/demo/src/test/test4.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/JUnit Basic Testing Exercises/AAA Pattern/code/demo/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/Mockito Exercises/Verifying interactions/code/demo/src/test/test5.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/Mockito Exercises/Verifying interactions/code/demo/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/Test Driven Development and Logging/Mockito Exercises/Mocking and Stubbing/code/demo/src/test/test6.iml" filepath="$PROJECT_DIR$/week2/Test Driven Development and Logging/Mockito Exercises/Mocking and Stubbing/code/demo/src/test/test6.iml" />
+    </modules>
+  </component>
+</project>
