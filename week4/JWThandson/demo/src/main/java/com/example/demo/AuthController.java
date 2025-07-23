@@ -12,7 +12,7 @@ public class AuthController {
     @PostMapping("/authenticate")
     public ResponseEntity<?> authenticate(@RequestBody AuthRequest authRequest) {
         if ("user".equals(authRequest.getUsername()) && "pwd".equals(authRequest.getPassword())) {
-            String token = "dummy-token-123";  // Replace with JWT generation in real app
+            String token = "dummy-token-123";  
             return ResponseEntity.ok("{\"token\":\"" + token + "\"}");
         } else {
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("Invalid credentials");
